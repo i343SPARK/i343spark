@@ -6,7 +6,7 @@ Developer, Designer & Content Creator
 
 - 👨‍💻  Frontend Developer 
 - 🎮  Game Developer
-- - 🎥 Content Creator
+- 🎥 Content Creator
 
 * 🧠  I'm learning Godot Engine and Ruby
 * 🤝  I'm open to collaborating on I'm open to collaborating on exciting projects as a frontend developer, designer or tester.
